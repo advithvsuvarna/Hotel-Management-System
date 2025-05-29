@@ -1,26 +1,26 @@
-*# Hotel Management System – HotelWebApp 🏨*
+# Hotel Management System – HotelWebApp 🏨
 
 ## 📌 Project Purpose
 The **Hotel Management System** is a web-based application designed to efficiently manage hotel operations such as reservations, room availability, and billing. It provides a user-friendly interface for hotel staff to handle bookings and generate key reports.
 
 ---
 
-*## ⚙️ Features & Modules*
+## ⚙️ Features & Modules
 
-*### 🔸 Core Functionalities:*
+### 🔸 Core Functionalities:
 - **ReservationAdd**: Book new reservations
 - **ReservationUpdate**: Modify existing reservation details
 - **ReservationDelete**: Cancel existing reservations
 - **ReservationDisplay**: View all current reservations
 
-*### 📊 Reports:*
+### 📊 Reports:
 - View reservations within a selected date range
 - Identify rooms that are booked most frequently
 - Calculate total revenue generated over a custom period
 
 ---
 
-*## 🗄️ Database Structure*
+## 🗄️ Database Structure
 sql
 CREATE TABLE Reservations (
     ReservationID INT PRIMARY KEY,
@@ -31,7 +31,7 @@ CREATE TABLE Reservations (
     TotalAmount DECIMAL(10,2)
 );
 
-*🏗️ Project Structure*
+🏗️ Project Structure
 pgsql
 Copy
 Edit
@@ -96,7 +96,7 @@ yaml
 Copy
 Edit
 
-*✅ Project Outcomes*
+✅ Project Outcomes
 This Hotel Management System helps achieve the following objectives:
 
 Streamlined Reservation Management
@@ -126,7 +126,7 @@ Learn how to perform CRUD operations via JDBC and MySQL.
 Deployment Skills
 Build and run the project in Eclipse using Apache Tomcat (XAMPP), simulating real-world web deployment.
 
-*🧪 Testing & Validation*
+🧪 Testing & Validation
 The following manual tests can be used to validate the functionality of the application:
 
 🔹 Reservation Module
