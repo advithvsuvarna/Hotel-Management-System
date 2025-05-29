@@ -32,9 +32,11 @@ CREATE TABLE Reservations (
 );
 
 🏗️ Project Structure
+
 pgsql
 Copy
 Edit
+
 HotelWebApp/
 ├── WebContent/
 │   ├── index.jsp
