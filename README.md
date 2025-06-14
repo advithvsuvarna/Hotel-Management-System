@@ -31,7 +31,7 @@ CREATE TABLE Reservations (
     TotalAmount DECIMAL(10,2)
 );
 
-🏗️ Project Structure
+## 🏗️ Project Structure
 
 pgsql
 Copy
@@ -62,7 +62,7 @@ HotelWebApp/
 │       └── ReportCriteriaServlet.java
 └── WEB-INF/
     └── web.xml
-🔧 Technologies Used
+##🔧 Technologies Used
 Java (Servlets, JSP)
 
 JDBC
@@ -75,7 +75,7 @@ Eclipse IDE
 
 Apache Tomcat (via XAMPP)
 
-🚀 How to Run
+## 🚀 How to Run
 Import project into Eclipse.
 
 Configure MySQL database using the above schema.
@@ -86,11 +86,11 @@ Deploy on Apache Tomcat Server.
 
 Access via browser at: http://localhost:8080/HotelWebApp/
 
-👤 Author
+## 👤 Author
 Advith V Suvarna
 Student, Alva's Institute of Engineering & Technology
 
-📜 License
+## 📜 License
 This project is for educational use only.
 You may freely modify and build upon it.
 
@@ -98,7 +98,7 @@ yaml
 Copy
 Edit
 
-✅ Project Outcomes
+## ✅ Project Outcomes
 This Hotel Management System helps achieve the following objectives:
 
 Streamlined Reservation Management
@@ -128,7 +128,7 @@ Learn how to perform CRUD operations via JDBC and MySQL.
 Deployment Skills
 Build and run the project in Eclipse using Apache Tomcat (XAMPP), simulating real-world web deployment.
 
-🧪 Testing & Validation
+## 🧪 Testing & Validation
 The following manual tests can be used to validate the functionality of the application:
 
 🔹 Reservation Module
